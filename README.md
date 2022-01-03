@@ -7,5 +7,5 @@
 <img src="https://img.shields.io/badge/JAVA-F48E00?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp 
 
 <hr></a>
-<br></br>
+<br></br></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-JungHwan&show_icons=true&theme=merko)
