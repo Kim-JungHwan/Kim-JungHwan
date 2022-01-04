@@ -7,7 +7,7 @@
 
 
 <h3>❤️ I like...</h3>
-<p>💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;![premium-icon-travel-bag-3088254](https://user-images.githubusercontent.com/79843862/148083977-5d9b3c66-4d50-4b7b-bbe2-79bcf8111176.png)travel</p>
+<p>💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;!#428813travel</p>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
