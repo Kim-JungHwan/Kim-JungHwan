@@ -8,7 +8,7 @@
 
 <hr></a>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Kim-JungHwan)
+align="center"![trophy](https://github-profile-trophy.vercel.app/?username=Kim-JungHwan)
 
 <hr></a>
 
