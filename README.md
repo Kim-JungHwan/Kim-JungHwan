@@ -7,7 +7,8 @@
 <img src="https://img.shields.io/badge/JAVA-F48E00?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp 
 
 <hr></a>
-
+![trophy](https://github-profile-trophy.vercel.app/?username=Kim-JungHwan)
+<hr></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-JungHwan&show_icons=true&theme=merko)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Kim-JungHwan)
+
