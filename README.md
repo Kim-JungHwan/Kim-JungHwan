@@ -7,7 +7,7 @@
 
 
 <h3>❤️ I like...</h3>
-<p>💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp; &#428813-travel</p>
+<p>💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp; &#428813 travel</p>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
