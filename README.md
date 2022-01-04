@@ -10,4 +10,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Kim-JungHwan)
 
+<hr></a>
+
 ![Kim-JungHwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-JungHwan&show_icons=true&theme=merko)
