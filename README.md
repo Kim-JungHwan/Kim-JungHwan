@@ -1,11 +1,14 @@
 <h3 align="center"><b>❤️About me❤️</b></h3>
 <p align="center"><a href="https://junghwan-hawaii.tistory.com//" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
 
-<p align="center">Hi There! I'm a Client developer.</p>
-<p> My main skills are Android,Java,Python.</p>
-<p>I am a developer that continues to grow in the future. 🔥</p>
-<p>Please look forward to my growth. Bye~</p>
+<hr></a>
 
+<p align="center">Hi There! I'm a Client developer.</p>
+<p align="center"> My main skills are Android,Java,Python.</p>
+<p align="center">I am a developer that continues to grow in the future. 🔥</p>
+<p align="center">Please look forward to my growth. Bye~</p>
+
+<hr></a>
 
 <h3 align="center">❤️ I like...</h3>
 <p align="center">💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;</p>
