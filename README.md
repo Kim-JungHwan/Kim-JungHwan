@@ -22,10 +22,10 @@
 <img src="https://img.shields.io/badge/C-AFEEEE?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/JAVA-F48E00?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp 
 
---
+----
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Kim-JungHwan)
 
---
+----
 
 ![Kim-JungHwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-JungHwan&show_icons=true&theme=merko)
