@@ -7,14 +7,14 @@
 <p align="center">I am a developer that continues to grow in the future. 🔥</p>
 <p align="center">Please look forward to my growth. Bye~</p>
 
-
-
+<br>
+<br>
 
 <h3 align="center">❤️ I like...</h3>
 <p align="center">💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;</p>
 
-
-
+<br>
+<br>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
