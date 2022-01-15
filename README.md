@@ -5,7 +5,7 @@
 
 
 <p align="center">Hi There! I'm a Client developer.</p>
-<p align="center"> My main skills are Android,Java,Python.</p>
+<p align="center"> My main skills are Android,Kotlin,Python.</p>
 <p align="center">I am a developer that continues to grow in the future. 🔥</p>
 <p align="center">Please look forward to my growth. Bye~</p>
 
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/C-AFEEEE?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/JAVA-F48E00?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/CSS-skyblue?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp 
