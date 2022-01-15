@@ -31,5 +31,5 @@
 <img src="https://img.shields.io/badge/CSS-skyblue?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp 
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
